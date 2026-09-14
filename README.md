@@ -1,165 +1,154 @@
 <div align="center">
 
-# 👋 Hola, soy Oscar Bautista
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=Oscar%20Bautista&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
 
-### Full Stack & Mobile Developer
+# 👋 ¡Hola! Soy Oscar Bautista
 
-Construyendo aplicaciones web y móviles, explorando inteligencia artificial
-y mejorando constantemente mis conocimientos en arquitectura de software.
+### 🚀 Full Stack Developer | 📱 Mobile Developer | 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+orientado+a+Full+Stack+y+Apps+M%C3%B3viles;Interesado+en+IA%2C+Arquitectura+de+Software+y+Cloud;Construyendo+mi+marca+personal+con+proyectos+reales" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Bautista-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/oscar-bautista-9921a2302/)
-[![GitHub](https://img.shields.io/badge/GitHub-OscarCodev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/OscarCodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar%20Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-bautista-9921a2302/)
+[![GitHub](https://img.shields.io/badge/GitHub-OscarCodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OscarCodev)
+![Profile Views](https://komarev.com/ghpvc/?username=OscarCodev&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🌟 Sobre mí
 
-```typescript
-const oscar = {
-    nombre: "Oscar Bautista",
-    carrera: "Ingeniería de Sistemas",
-    universidad: "Universidad Nacional de San Cristóbal de Huamanga",
-    ciclo: "VIII",
+Soy **Oscar Bautista**, estudiante de **Ingeniería de Sistemas** en **octavo ciclo**, apasionado por el desarrollo de software y la construcción de productos digitales con impacto real.
 
-    enfoque: [
-        "Full Stack Development",
-        "Mobile Development",
-        "Artificial Intelligence",
-        "Software Architecture"
-    ],
+Me oriento al desarrollo **Full Stack**, con especial interés en el desarrollo de **aplicaciones móviles**, la **inteligencia artificial**, la **arquitectura de software**, el **cloud computing** y las **bases de datos**.
 
-    actualmente: "Mejorando mis conocimientos en Arquitectura de Software",
+Actualmente sigo mejorando mis habilidades en **Arquitectura de Software**, buscando construir soluciones cada vez más escalables, mantenibles y bien diseñadas.
 
-    objetivo: "Crear productos tecnológicos que resuelvan problemas reales"
-};
-```
+---
 
-Soy estudiante de **Ingeniería de Sistemas** y desarrollador orientado al ecosistema **Full Stack**, con especial interés por el desarrollo de aplicaciones móviles.
+## 🧠 Un poco de mí
 
-Me interesa comprender no solamente cómo desarrollar una aplicación, sino también cómo diseñar sistemas **mantenibles, escalables y bien estructurados**.
-
-Actualmente continúo profundizando en **Arquitectura de Software**, desarrollo Full Stack, Inteligencia Artificial, Cloud y tecnologías para aplicaciones modernas.
+- 🎓 Estudiante de **Ingeniería de Sistemas**
+- 📚 Actualmente en **octavo ciclo**
+- 💻 Enfoque en **Full Stack Development**
+- 📱 Me gusta desarrollar **apps móviles**
+- 🤖 Interesado en **IA**
+- 🏗️ Aprendiendo más sobre **Arquitectura de Software**
+- ☁️ Interés en **Cloud Computing**
+- 🌱 Construyendo mi **marca personal**
+- 🌎 Idioma principal: **Español**
+- 🗣️ Inglés: **Básico / Intermedio**
 
 ---
 
 ## 🚀 Proyectos destacados
 
 ### 🤖 Closer
+**CTO en una plataforma web para entrenar fuerzas de ventas con inteligencia artificial.**
 
-**Plataforma web para entrenamiento inteligente de equipos de ventas mediante IA.**
+Closer es una solución enfocada en potenciar equipos comerciales mediante herramientas impulsadas por IA, ayudando a mejorar habilidades, seguimiento y desempeño en ventas.
 
-Participo como **CTO**, trabajando en la evolución tecnológica del producto y en el diseño de una plataforma orientada a mejorar las habilidades de equipos comerciales mediante entrenamiento asistido por Inteligencia Artificial.
-
-`Artificial Intelligence` `Web Platform` `Full Stack` `Software Architecture`
+**Enfoques del proyecto:**  
+`IA` `Web App` `Producto digital` `Arquitectura` `Full Stack`
 
 ---
 
 ### 🌱 ActivateVerde
+**Aplicación para reportar incidentes ambientales en tiempo real.**
 
-**Aplicación para el reporte de incidentes ambientales en tiempo real.**
+Proyecto orientado a facilitar el reporte ciudadano de incidentes ambientales, permitiendo una respuesta más rápida y organizada mediante una app accesible y moderna.
 
-Proyecto orientado a facilitar la participación ciudadana mediante una aplicación que permite registrar y reportar incidentes ambientales, contribuyendo a una respuesta y seguimiento más eficiente.
-
-`Mobile Development` `Flutter` `Supabase` `Real-time`
+**Enfoques del proyecto:**  
+`Flutter` `App móvil` `Tiempo real` `Impacto social` `Supabase`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css&theme=dark" />
-</p>
-
-### Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-</p>
-
----
-
-## 🧠 Áreas de interés
-
-```text
-💻 Full Stack Development        📱 Mobile Development
-🤖 Artificial Intelligence      🏗️ Software Architecture
-☁️ Cloud Computing              🗄️ Databases
-⚙️ Backend Engineering          🎨 Frontend Development
-```
-
----
-
-## 📚 Actualmente aprendiendo
-
-Estoy fortaleciendo mis conocimientos en:
-
-* 🏗️ Arquitectura de Software
-* 🧩 Patrones de diseño y buenas prácticas
-* ⚡ Diseño de sistemas escalables
-* 🤖 Integración de Inteligencia Artificial en aplicaciones
-* ☁️ Cloud y despliegue de aplicaciones modernas
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OscarCodev&show_icons=true&theme=github_dark&hide_border=true&locale=es" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts&theme=dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCodev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,firebase&theme=dark" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
 
 </div>
 
 ---
 
-## 🌎 Idiomas
+## 📌 Áreas de interés
 
-🇪🇸 **Español** — Nativo
-🇺🇸 **Inglés** — Básico / Intermedio
+<div align="center">
+
+| Área | Interés |
+|------|---------|
+| 💻 Full Stack Development | Alta |
+| 📱 Mobile Development | Alta |
+| 🤖 Inteligencia Artificial | Alta |
+| 🏗️ Arquitectura de Software | Alta |
+| ☁️ Cloud Computing | Media/Alta |
+| 🗄️ Bases de Datos | Alta |
+| 🎨 Frontend | Alta |
+| ⚙️ Backend | Alta |
+
+</div>
 
 ---
 
-## 🤝 Conectemos
+## 📚 Actualmente aprendiendo
 
-Siempre estoy interesado en aprender, construir nuevos proyectos y colaborar en ideas relacionadas con desarrollo de software, aplicaciones móviles e inteligencia artificial.
+- 🏗️ Arquitectura de Software
+- 🧩 Buenas prácticas de diseño
+- ⚡ Estructuración de sistemas escalables
+- 🤖 Aplicación de IA en productos reales
+- ☁️ Tecnologías cloud y despliegue moderno
 
-<p align="center">
+---
 
-<a href="https://www.linkedin.com/in/oscar-bautista-9921a2302/">
-  <img src="https://img.shields.io/badge/LinkedIn-Oscar_Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarCodev&show_icons=true&theme=github_dark&hide_border=true&locale=es" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCodev&layout=compact&theme=github_dark&hide_border=true&locale=es" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarCodev&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Conectemos
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/oscar-bautista-9921a2302/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/OscarCodev">
-  <img src="https://img.shields.io/badge/GitHub-OscarCodev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/OscarCodev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-OscarCodev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Construyendo, aprendiendo y mejorando un proyecto a la vez.
+### ✨ *"Construyendo soluciones, aprendiendo constantemente y creando tecnología con propósito."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=OscarCodev\&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:2563eb" width="100%" />
 
 </div>
